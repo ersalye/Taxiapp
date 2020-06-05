@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521923410264",
+    "firebase_url": "https://mipasho-ad40b.firebaseio.com",
+    "project_id": "mipasho-ad40b",
+    "storage_bucket": "mipasho-ad40b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521923410264:android:ec68a98ac838984f46cd2d",
+        "android_client_info": {
+          "package_name": "com.tranzeet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521923410264-36m8o7trcti0vbvvq5e7tr29q0hlq1d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tranzeet.app",
+            "certificate_hash": "788e242ea8d508ba558306e5490b848463e7d5bd"
+          }
+        },
+        {
+          "client_id": "521923410264-qdf097ju2um6845unt6msquct79kpf3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_iBdMqnQ0r9kkqWTnM-u8CyGXkCNAnJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521923410264-qdf097ju2um6845unt6msquct79kpf3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
